@@ -1,9 +1,8 @@
 # Wikipedia-clone
  This web application is a simple clone of Wikipedia, built using HTML, CSS, and JavaScript. 
  # WebD Wikipedia Clone Project
+![Wikipedia Clone](https://github.com/Timtim477/Wikipedia-clone/assets/88290919/a0b4796b-f6f8-485d-a0f5-2d8e663d3a40)
 
-![WebD Wikipedia Clone](<img width="959" alt="image" src="https://github.com/Timtim477/Wikipedia-clone/assets/88290919/97b7d5b2-0a20-43d5-b88e-a19d70f83805">
-)
 
 ## Table of Contents
 - [Introduction](#introduction)
