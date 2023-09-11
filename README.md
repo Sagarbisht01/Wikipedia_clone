@@ -16,7 +16,7 @@
 
 ## Introduction
 
-Welcome to the WebD Wikipedia Clone project! This web application is a simple clone of Wikipedia, built using HTML, CSS, and JavaScript. It allows users to search for articles, view their contents, and edit articles just like the real Wikipedia.The project fetches search result from this [API](https://en.wikipedia.org/w/api.php).
+Welcome to the WebD Wikipedia Clone project! This web application is a simple clone of Wikipedia, built using HTML, CSS, and JavaScript. It allows users to search for articles and view their contents just like the real Wikipedia.The project fetches search result from this [API](https://en.wikipedia.org/w/api.php).
 
 The project is designed to help me learn web development concepts and improve my skills by creating a functional web application. Feel free to use this project as a starting point for your web development journey!.
 
