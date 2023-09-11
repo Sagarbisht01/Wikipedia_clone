@@ -3,6 +3,7 @@
  # WebD Wikipedia Clone Project
 ![Wikipedia Clone](https://github.com/Timtim477/Wikipedia-clone/assets/88290919/a0b4796b-f6f8-485d-a0f5-2d8e663d3a40)
 
+[Live Demo here](https://64ff11c45cf4cf7bcb184e66--merry-starburst-06f444.netlify.app/)
 
 ## Table of Contents
 - [Introduction](#introduction)
